@@ -1,3 +1,2 @@
 update log for version 1.0.0.0:
-
 started project and started adding major features, a lot of debugging and work to go.
